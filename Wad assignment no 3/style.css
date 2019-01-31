@@ -1,0 +1,27 @@
+.iform
+{
+	max-width: 45%;
+	height: 400px;
+
+	transform: translate(60%,40%);
+	border: 2px solid #c7c6c6
+}
+.iform form input{
+	width: 350px;
+    text-align: center;
+    margin: 0 26px 6px;
+}
+.iform form button{
+	width: 350px;
+    text-align: center;
+    margin: 0 26px 6px;
+        background-color: #ff4f00;
+}
+.navbar-light .navbar-brand {
+    color: orange;
+}
+.head
+{
+    background-color: black;
+    opacity: 0.6;
+}
